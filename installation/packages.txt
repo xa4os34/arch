@@ -1,0 +1,60 @@
+# basic desktop apps
+keepassxc
+firefox-developer-edition
+telegram-desktop
+discord
+spotify-launcher
+neovim
+baobab
+
+# additional apps
+filezilla
+gimp
+krita
+inkscape
+kdenlive
+
+# amd gpu drivers
+mesa
+libva-mesa-driver
+mesa-vdpau
+vulkan-radeon
+
+## nvidia gpu dirvers
+# nvidia
+# nvidia-utils
+# nvidia-settings
+# opencl-nvidia
+
+
+
+# core
+alacritty
+bash-completion
+linux-headers
+base-devel
+net-tools
+iw
+iwd
+wireless_tools
+openssh
+git
+tree-sitter
+fzf
+
+# dev
+python
+clang
+gcc
+lua
+docker
+docker-compose
+dotnet-sdk
+dotnet-sdk-7.0
+dotnet-sdk-6.0
+aspnet-runtime
+aspnet-runtime-7.0
+aspnet-runtime-6.0
+
+## Compositor/Window Manager
+# hyperland
